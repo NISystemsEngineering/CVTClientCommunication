@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2013-10-28 18:12:03" Modified_Date="2018-02-08 20:16:04" Creator="cmalato" Comments="" ID="4c261fe819df5d36fb5aa2e86621eb15">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2013-10-28 18:12:03" Modified_Date="2018-02-09 12:00:32" Creator="cmalato" Comments="" ID="62bfbbf8bebb95171e365813281c6e2f">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_ccc</Package_File_Name>
-    <Library_Version>3.0.3.10</Library_Version>
+    <Library_Version>4.0.0.1</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\export</Library_Output_Folder>
@@ -35,17 +35,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes>This version is not code compatible with previous versions.  You will need to update any existing code that uses CCC to link to this version.
-
-Added all VIs to a project library.
-
-Added support for all CVT data types.
-
-Added the ability to run multiple server instances on the same target if each server uses a differnent TCP port.
-
-Added the ability to run multiple clients on the same target if each client is connected to a different server.
-
-Corrected an issue where at least one read tag and one write tag needed to be present.</Release_Notes>
+      <Release_Notes>Moved to 2014</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
